@@ -1,2 +1,3 @@
-# hello-world
-Learning to create a repository
+hello-world
+
+This program is a basic hello-world one!
